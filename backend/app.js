@@ -9,7 +9,7 @@ var cors = require('cors');
 dotenv.config();
 const middlewares = require('./middlewares');
 const app = express();
-const mongo_uri = "mongodb+srv://santiago894:P5wIGtXue8HvPvli@cluster0.6xkz1.mongodb.net/";
+const mongo_uri = "mongodb+srv://agusskate34:Espetero1@agusskate.jgob4.mongodb.net/?retryWrites=true&w=majority&appName=agusskate";
 const bd_nombre = "restaurante";
 const mongo_cliente = new MongoClient(mongo_uri);
 
