@@ -1,0 +1,1 @@
+Apunte Para santiago Tienes que rehacer la conexion a la base de datos y en vez de una sola instancia inicial cambiar la funcion que conecta a la base de datos para utilizarla cada vez que se quiera llamar a la instancia cliente y no almacenarlo fuera de la funcion en un variable
